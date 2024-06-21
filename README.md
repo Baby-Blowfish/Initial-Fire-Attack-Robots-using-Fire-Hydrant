@@ -10,3 +10,5 @@
 따라서 본 프로젝트를 통해 기존의 소방 로봇의 단점을 보완하는 옥내 소화전을 사용한 자율주행 화재 초기 진압 Mobility를 개발하였습니다.
 
 <img width="440" alt="스크린샷 2024-05-08 165016" src="https://github.com/Baby-Blowfish/Initial-Fire-Attack-Robots-using-Fire-Hydrant/assets/168509536/5bc23cc5-38df-49a4-937e-33516c939d4c">
+
+구동영상 : https://www.youtube.com/watch?v=NFN3SeLfSok
